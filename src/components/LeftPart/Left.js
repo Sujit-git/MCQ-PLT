@@ -39,6 +39,8 @@ const Left = () => {
                 </div>
                 <div id="question">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius sit amet mattis vulputate enim. Duis ut diam quam nulla porttitor massa. Massa eget egestas purus viverra accumsan in. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Varius sit amet mattis vulputate enim. Duis ut diam quam nulla porttitor massa. Massa eget egestas purus viverra accumsan in. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat.
+                
                 </div>
 
 

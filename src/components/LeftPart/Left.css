@@ -50,6 +50,7 @@
     font-weight: bold;
   }
   #question {
+    overflow: scroll;
     width: 100%;
     border: 20px #00CCFF;
     background-color: white;
@@ -62,7 +63,7 @@
   }
 
   #options{
-    margin-left: 50px;
+    margin-left: 20px;
   }
 
   #option1:hover, #option2:hover, #option3:hover, #option4:hover, #option1:focus {
@@ -124,7 +125,7 @@
     margin-top: 10px;
   }
   #submit_op {
-    margin-left: 55px;
+    margin-left: 25px;
     margin-top: 20px;
     color: white;
     font-weight: bold;

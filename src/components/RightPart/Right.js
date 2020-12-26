@@ -1,8 +1,7 @@
 import React from 'react';
 import 'antd/dist/antd.css';
-import { CaretRightOutlined } from '@ant-design/icons'
+import { CaretRightOutlined, FieldTimeOutlined } from '@ant-design/icons'
 import './Right.css';
-
 
 const Right = () => {
     return (
@@ -10,7 +9,7 @@ const Right = () => {
             <div className="Right">
                 <div>
                     <div>
-                        <h1 style={{ float: 'left', marginTop: '20px', borderBottom: 'double', color:'black'}}>Questions <CaretRightOutlined /></h1>
+                        <h1 style={{ float: 'left', marginTop: '20px', borderBottom: 'double', color: 'black' }}>Questions <CaretRightOutlined /></h1>
                         <br />
                         <br />
                         <br />
